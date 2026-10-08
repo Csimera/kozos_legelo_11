@@ -26,7 +26,7 @@ Reflexió
 
 A legelő most mindenkinek elég
 
-Kilenc tehén legel a közös területen. Egy állat naponta 10 liter tejet ad.
+    Kilenc tehén legel a közös területen. Egy állat naponta 10 liter tejet ad.
 
 9
 tehén a legelőn
