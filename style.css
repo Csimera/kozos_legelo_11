@@ -80,6 +80,10 @@ header{
     flex-wrap: wrap;
 }
 
+#uppercase{
+    text-transform: uppercase;
+}
+
 header div{
     padding: 30px;
     flex: 0 0 calc(75% - 30px);
@@ -231,6 +235,10 @@ aside div{
 aside div h1{
     color:var(--dark);
     padding: 0;
+}
+
+aside ul li{
+    padding-right: 10px;
 }
 
 .harmadiknav{
